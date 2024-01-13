@@ -7,7 +7,7 @@
   - Email: 211210024@nitdelhi.ac.in
   - LinkedIn: [Gaurav Singh](linkedin.com/in/your-linkedin-profile)
   - GitHub: [varuagrathore](https://github.com/varuagrathore)
-  - Phone: (+91) 7291994633
+ 
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know that the first computer programmer was a woman named Ada Lovelace?
