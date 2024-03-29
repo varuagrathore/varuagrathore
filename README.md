@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects related to data analysis and visualization.
 - 📫 How to reach me: 
   - Email: 211210024@nitdelhi.ac.in
-  - LinkedIn: [Gaurav Singh](linkedin.com/in/your-linkedin-profile)
+  - LinkedIn: [Gaurav Singh](https://www.linkedin.com/in/gaurav-singh-481b88241/)
   - GitHub: [varuagrathore](https://github.com/varuagrathore)
  
 
