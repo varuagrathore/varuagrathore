@@ -21,27 +21,6 @@ I am a data analyst and an energetic B.Tech student majoring in Computer Science
 - B.Tech in Computer Science, National Institute of Technology Delhi (Graduating in 2025)
 - Higher Secondary (XII, CBSE) - Government Boys Senior Secondary School Delhi, 2020
 
-## Experience
-
-- **Mentor and Marketing Assistant** — We Won Academy (June ’23 - August ’23)
-  - Guided 250+ students, improving academic and personal growth.
-  - Implemented data-driven strategies for promoting the YouTube channel, resulting in a 20 percent increase in viewership.
-
-## Projects
-
-- **Sales Analysis and Power BI Dashboard**
-  - Conducted in-depth sales analysis using Python, providing valuable insights for business optimization.
-  - Created interactive dashboards with Microsoft Power BI for effective data visualization.
-
-- **Empowering Quotes Website with React** ([GitHub](https://github.com/varuagrathore/empowering-quotes))
-  - Developed a dynamic quote-sharing platform using React for the frontend.
-  - Leveraged React state and components for a seamless user interface.
-
-- **Data Analytics in Python** ([GitHub](https://github.com/varuagrathore/data-analytics-in-python/firstpythonproject))
-  - Utilized pandas, numpy, and matplotlib libraries for data analysis and visualization.
-  - Performed statistical analysis, including correlation and time series decomposition.
-  - Created interactive visualizations using seaborn and matplotlib in Jupyter notebooks.
-
 ## Skills
 
 - **Data Analytics:** Microsoft Power BI, Microsoft Excel, SQL
